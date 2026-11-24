@@ -45,5 +45,5 @@ saygilabs@github:~$ ls projects/
 
 ### 🔵 İletişim
 
-[![LinkedIn](https://www.linkedin.com/in/ömer-eren-saygı-283187424?utm_source=share_via&utm_content=profile&utm_medium=member_android)](LINKEDIN_LINKIN)
+[![LinkedIn](https://www.linkedin.com/in/ömer-eren-saygı-283187424?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
 [![Email](https://img.shields.io/badge/Email-b91c1c?style=flat-square&logo=gmail&logoColor=white)](mailto:MAIL_ADRESIN)
