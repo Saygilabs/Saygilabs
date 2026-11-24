@@ -46,17 +46,17 @@
 
 <br/>
 
-<!-- FİNAL SAHNESİ: PORTAL & MINECRAFT KALPLİ ETKİLEŞİM ALANI -->
+<!-- FİNAL SAHNESİ: PORTAL & MINECRAFT BÜYÜK KALPLİ ETKİLEŞİM ALANI -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:002b5b,50:4a0e4e,100:1a0033&height=140&section=footer&text=SISTEM%20BAGLANTISI%20AKTIF&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ömer-eren-saygı-283187424" target="_blank">
-    <img src="https://img.shields.io/badge/♥%20LinkedIn-1a0033?style=for-the-badge&logo=linkedin&logoColor=DA70D6" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/❤️_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/Saygilabs" target="_blank">
-    <img src="https://img.shields.io/badge/♥%20Instagram-1a0033?style=for-the-badge&logo=instagram&logoColor=DA70D6" alt="Instagram" />
+  <a href="https://www.instagram.com/omererensyg/" target="_blank">
+    <img src="https://img.shields.io/badge/💖_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:experience.respect@gmail.com">
-    <img src="https://img.shields.io/badge/♥%20Email-1a0033?style=for-the-badge&logo=gmail&logoColor=DA70D6" alt="Email" />
+    <img src="https://img.shields.io/badge/💜_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
